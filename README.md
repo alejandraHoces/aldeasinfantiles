@@ -1,7 +1,7 @@
 ## Rediseño de Aldeas Infantiles  
 Proyecto Individual  
 
-El primer proyecto individual para el bootcamp de laboratoria fue rediseñar el sitio web o aplicación gubernamental o sin fines de lucro. Elegí el sitio web de la ONG [Children's Village](https://www.aldeasinfantiles.org.pe/) . Para quienes no conocen su trabajo, Children's Villages se ocupa de niños y jóvenes vulnerables en 134 países, entre ellos Perú.  
+Me propuse rediseñar un sitio web o aplicación gubernamental o sin fines de lucro. Elegí el sitio web de la ONG [Aldeas Infantiles](https://www.aldeasinfantiles.org.pe/). Para quienes no conocen su trabajo, Aldeas Infantiles se ocupa de niños y jóvenes vulnerables en 134 países, entre ellos Perú.  
 
 ### 1 . Desafío  
 
@@ -53,20 +53,24 @@ Así llegué al Concept Sketching de las páginas principales, donde los element
 
 Y desarrolle wireframes de baja fidelidad .
 
-**foto**  
+![aldeas8](https://user-images.githubusercontent.com/31807340/40030070-06904d54-57ae-11e8-804e-ef17cabfb87c.jpeg)
 
 ### 4 . Diseño
 El moodboard busca lograr un ambiente acogedor, cálido y hogareño, con formas redondeadas y colores complementarios con el azul existente que proviene de la imagen corporativa. Tipografía muy limpia, Work Sans y San Francisco .SF NS Text
 
-**foto**  
+![aldeas9](https://user-images.githubusercontent.com/31807340/40030483-6f5ecd72-57b0-11e8-974e-11af9a39e6bb.png)
+![aldeas10](https://user-images.githubusercontent.com/31807340/40030559-dda025f6-57b0-11e8-8920-a8bc923bc62b.png)
+![aldeas11](https://user-images.githubusercontent.com/31807340/40030579-f96e472c-57b0-11e8-8d7c-aefd2ed36167.png)
+![aldeas11 1](https://user-images.githubusercontent.com/31807340/40030698-b3acbb50-57b1-11e8-9daa-cb5000bb3876.png)
+![aldeas12](https://user-images.githubusercontent.com/31807340/40030682-9a52dcca-57b1-11e8-8308-bdd8285b5234.png)  
 
 En resumen, el moodboard final se vería así:
 
-**foto**  
+![aldeas14](https://user-images.githubusercontent.com/31807340/40031398-2133233c-57b5-11e8-9516-a4c11c9a85d5.png)
 
 Y de aquí obtengo la paleta de colores y las fuentes tipográficas para la maqueta.
 
-**foto**
+![aldeas15](https://user-images.githubusercontent.com/31807340/40031489-8890bd64-57b5-11e8-8671-72f8a1433f1e.png)
 
 ### 5 . Prototipos  
 
