@@ -1,7 +1,7 @@
 ## Rediseño de Aldeas Infantiles  
 Proyecto Individual  
 
-Me propuse rediseñar un sitio web o aplicación gubernamental o sin fines de lucro. Elegí el sitio web de la ONG [Aldeas Infantiles](https://www.aldeasinfantiles.org.pe/). Para quienes no conocen su trabajo, Aldeas Infantiles se ocupa de niños y jóvenes vulnerables en 134 países, entre ellos Perú.  
+Me propuse rediseñar un sitio web o aplicación gubernamental sin fines de lucro. Elegí el sitio web de la ONG [Aldeas Infantiles](https://www.aldeasinfantiles.org.pe/). Para quienes no conocen su trabajo, Aldeas Infantiles se ocupa de niños y jóvenes vulnerables en 134 países, entre ellos Perú.  
 
 ### 1 . Desafío  
 
