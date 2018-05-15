@@ -1,7 +1,7 @@
 ## Rediseño de Aldeas Infantiles  
 Proyecto Individual  
 
-El primer proyecto individual para el bootcamp de laboratoria fue rediseñar el sitio web o aplicación gubernamental o sin fines de lucro. Elegí el sitio web de la ONG Children's Village . Para quienes no conocen su trabajo, Children's Villages se ocupa de niños y jóvenes vulnerables en 134 países, entre ellos Perú.  
+El primer proyecto individual para el bootcamp de laboratoria fue rediseñar el sitio web o aplicación gubernamental o sin fines de lucro. Elegí el sitio web de la ONG [Children's Village](https://www.aldeasinfantiles.org.pe/) . Para quienes no conocen su trabajo, Children's Villages se ocupa de niños y jóvenes vulnerables en 134 países, entre ellos Perú.  
 
 ### 1 . Desafío  
 
