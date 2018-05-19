@@ -74,7 +74,9 @@ Y de aquí obtengo la paleta de colores y las fuentes tipográficas para la maqu
 
 ### 5 . Prototipos  
 
-Y este es el resultado final de la remodeladas Aldeas Infantiles SOS.
+Y este es el resultado final versión móvil de la remodeladas Aldeas Infantiles SOS.
 
-![corel](https://user-images.githubusercontent.com/31807340/40255491-f3021996-5aac-11e8-9893-09847118e5fb.png)
+![corel](https://user-images.githubusercontent.com/31807340/40255491-f3021996-5aac-11e8-9893-09847118e5fb.png)  
+
+[Ver prototipo aquí](https://marvelapp.com/6d8jhai)
 
